@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:166534,75:22C55E,100:F59E0B&height=230&section=header&text=DucQuan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AWS%20Solution%20Architect&descAlignY=58&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:166534,75:22C55E,100:F59E0B&height=230&section=header&text=DucQuan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20Engineer&descAlignY=58&descSize=22" />
 </p>
 
 <h1 align="center">DucQuan</h1>
 
-<h3 align="center">AWS Solution Architect</h3>
+<h3 align="center">Cloud Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=780&color=22C55E&lines=Designing+secure+AWS+cloud+architectures;Building+reliable+and+scalable+systems;Cloud+architecture+with+clarity+and+purpose;Security+%7C+Reliability+%7C+Cost+Optimization" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=780&color=22C55E&lines=Building+on+AWS+Cloud;Designing+reliable+cloud+systems;Cloud+infrastructure+with+clarity+and+purpose;Security+%7C+Reliability+%7C+Cost+Optimization" />
 </p>
 
 <br>
