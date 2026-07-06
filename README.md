@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DucQuan</h1>
+<h1 align="center">Hi 👋, I'm DuckQuan</h1>
 
 <h3 align="center">
   A developer learning, building, and exploring technology
@@ -13,9 +13,9 @@
 ## About me
 
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m learning **JavaScript, React, Node.js, Cloud**
-- 💬 Ask me about **Web Development**
-- 📫 Contact me: **your-email@gmail.com**
+- 🌱 I’m learning **Cloud**
+- 💬 Ask me about **CloudArchitect**
+- 📫 Contact me: **ducquan2213@gmail.com**
 - ⚡ Fun fact: I enjoy turning ideas into real products
 
 ---
@@ -33,14 +33,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DucQuan-doo4&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucQuan-doo4&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DucQuan-doo4&theme=tokyonight" />
 </p>
 
 ---
