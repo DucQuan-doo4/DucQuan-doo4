@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/aws-cloud-architecture.svg" width="900" alt="Animated AWS cloud architecture" />
+  <img src="./assets/cloud-journey.svg" width="900" alt="Animated cloud journey" />
 </p>
 
 <br>
