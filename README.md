@@ -12,15 +12,12 @@
 
 <br>
 
-<div align="center">
+## About Me:
 
-## About Me
-
-I design AWS cloud solutions with a focus on security, scalability, reliability, and cost optimization.
-
-I like turning business requirements into clean cloud architectures that are practical to operate and ready to grow.
-
-</div>
+- I am a Cloud Engineer working with AWS cloud infrastructure and architecture.
+- I enjoy designing clean, secure, and scalable cloud systems for real-world operations.
+- My focus is on reliability, automation, cost optimization, and practical cloud architecture.
+- I like turning business requirements into simple cloud solutions that are easy to operate and ready to grow.
 
 <br>
 
@@ -34,24 +31,6 @@ I like turning business requirements into clean cloud architectures that are pra
   <img src="https://img.shields.io/badge/Security%20First-0F172A?style=for-the-badge&logo=amazonaws&logoColor=F59E0B" />
   <img src="https://img.shields.io/badge/Scalable%20Architecture-166534?style=for-the-badge&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Cost%20Aware-22C55E?style=for-the-badge&logo=serverless&logoColor=0F172A" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F172A,50:166534,100:22C55E&height=115&section=header&text=AWS%20Cloud%20Architecture&fontSize=28&fontColor=ffffff&animation=twinkling&desc=Secure%20.%20Scalable%20.%20Reliable&descSize=16&descAlignY=70" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DucQuan-doo4&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,PullRequest" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DucQuan-doo4&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22C55E&text_color=E5E7EB&icon_color=F59E0B" height="170" />
 </p>
 
 <br>
