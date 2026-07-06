@@ -24,13 +24,5 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Security%20First-0F172A?style=for-the-badge&logo=amazonaws&logoColor=F59E0B" />
-  <img src="https://img.shields.io/badge/Scalable%20Architecture-166534?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cost%20Aware-22C55E?style=for-the-badge&logo=serverless&logoColor=0F172A" />
-</p>
-
-<br>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,35:22C55E,70:166534,100:0F172A&height=130&section=footer" />
 </p>
