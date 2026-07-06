@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:10B981,100:A7F3D0&height=220&section=header&text=DucQuan&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20Solution%20Architect&descAlignY=58&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:166534,75:22C55E,100:F59E0B&height=230&section=header&text=DucQuan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AWS%20Solution%20Architect&descAlignY=58&descSize=22" />
 </p>
 
-<h1 align="center">Hi, I'm DucQuan</h1>
+<h1 align="center">DucQuan</h1>
 
 <h3 align="center">
   AWS Solution Architect
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=780&color=10B981&lines=Designing+Scalable+Cloud+Architectures;Building+Secure+AWS+Solutions;Cloud+Infrastructure+with+Reliability;Architecture+%7C+Automation+%7C+Optimization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=780&color=22C55E&lines=Designing+secure+AWS+cloud+architectures;Building+reliable+and+scalable+systems;Cloud+architecture+with+clarity+and+purpose;Security+%7C+Reliability+%7C+Cost+Optimization" />
 </p>
 
 <br>
@@ -18,12 +18,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750045-8593c2ca-5596-4f80-ae6e-832368536b4a.gif" width="520" />
 </p>
 
----
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Solution%20Architect-10B981?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-Architecture-064E3B?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reliability-Scalability-A7F3D0?style=for-the-badge&logo=serverless&logoColor=064E3B" />
+  <img src="https://img.shields.io/badge/AWS-Solution%20Architect-0F172A?style=for-the-badge&logo=amazonaws&logoColor=F59E0B" />
+  <img src="https://img.shields.io/badge/Cloud-Architecture-166534?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secure-Reliable-22C55E?style=for-the-badge&logo=shield&logoColor=0F172A" />
 </p>
 
 <br>
@@ -32,33 +32,44 @@
 
 ## About Me
 
-I design cloud solutions on AWS with a focus on security, scalability, reliability, and cost optimization.
+I design AWS cloud solutions with a focus on security, scalability, reliability, and cost optimization.
 
-I enjoy turning business requirements into practical cloud architectures that are simple to operate and ready to grow.
+I like building cloud architectures that are clean, practical, and ready for real-world operations.
 
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:064E3B,50:10B981,100:A7F3D0&height=120&section=footer&text=AWS%20%7C%20Cloud%20Architecture%20%7C%20Reliable%20Systems&fontSize=25&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F172A,50:166534,100:22C55E&height=115&section=header&text=AWS%20Cloud%20Architecture&fontSize=28&fontColor=ffffff&animation=twinkling&desc=Secure%20.%20Scalable%20.%20Reliable&descSize=16&descAlignY=70" />
 </p>
 
----
+<br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DucQuan-doo4&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DucQuan-doo4&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,PullRequest" />
 </p>
 
----
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DucQuan-doo4&show_icons=true&theme=merko&hide_border=true&bg_color=00000000&title_color=10B981&icon_color=A7F3D0&text_color=CFFAFE" height="165" />
-  <img src="https://streak-stats.demolab.com?user=DucQuan-doo4&theme=merko&hide_border=true&background=00000000&ring=10B981&fire=A7F3D0&currStreakLabel=10B981" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DucQuan-doo4&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22C55E&text_color=E5E7EB&icon_color=F59E0B" height="170" />
 </p>
 
----
+<br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A7F3D0,50:10B981,100:064E3B&height=140&section=footer" />
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22C55E" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-166534?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DucQuan-doo4">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F59E0B" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,35:22C55E,70:166534,100:0F172A&height=130&section=footer" />
 </p>
