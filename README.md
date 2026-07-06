@@ -4,9 +4,7 @@
 
 <h1 align="center">DucQuan</h1>
 
-<h3 align="center">
-  AWS Solution Architect
-</h3>
+<h3 align="center">AWS Solution Architect</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=780&color=22C55E&lines=Designing+secure+AWS+cloud+architectures;Building+reliable+and+scalable+systems;Cloud+architecture+with+clarity+and+purpose;Security+%7C+Reliability+%7C+Cost+Optimization" />
@@ -15,26 +13,26 @@
 <br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750045-8593c2ca-5596-4f80-ae6e-832368536b4a.gif" width="520" />
+  <img src="./assets/aws-cloud-architecture.svg" width="900" alt="Animated AWS cloud architecture" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Solution%20Architect-0F172A?style=for-the-badge&logo=amazonaws&logoColor=F59E0B" />
-  <img src="https://img.shields.io/badge/Cloud-Architecture-166534?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Secure-Reliable-22C55E?style=for-the-badge&logo=shield&logoColor=0F172A" />
+  <img src="https://img.shields.io/badge/Security%20First-0F172A?style=for-the-badge&logo=amazonaws&logoColor=F59E0B" />
+  <img src="https://img.shields.io/badge/Scalable%20Architecture-166534?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cost%20Aware-22C55E?style=for-the-badge&logo=serverless&logoColor=0F172A" />
 </p>
 
 <br>
 
 <div align="center">
 
-## About Me
+## Cloud Architecture Mindset
 
 I design AWS cloud solutions with a focus on security, scalability, reliability, and cost optimization.
 
-I like building cloud architectures that are clean, practical, and ready for real-world operations.
+I like turning business requirements into clean cloud architectures that are practical to operate and ready to grow.
 
 </div>
 
@@ -57,18 +55,6 @@ I like building cloud architectures that are clean, practical, and ready for rea
 </p>
 
 <br>
-
-<p align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22C55E" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-166534?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/DucQuan-doo4">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F59E0B" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,35:22C55E,70:166534,100:0F172A&height=130&section=footer" />
