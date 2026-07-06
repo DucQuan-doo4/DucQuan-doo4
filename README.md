@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="./assets/intro-name.svg" width="760" alt="Hi there, I'm DucQuan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=760&height=90&color=22C55E&lines=Hi+there,+I'm+DucQuan" alt="Hi there, I'm DucQuan" />
 </p>
-
-<h3 align="center">
-  Cloud Engineer
-</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=780&color=22C55E&lines=Building+on+AWS+Cloud;Designing+reliable+cloud+systems;Cloud+infrastructure+with+clarity+and+purpose;Security+%7C+Reliability+%7C+Cost+Optimization" />
