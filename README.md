@@ -12,6 +12,18 @@
 
 <br>
 
+<div align="center">
+
+## About Me
+
+I design AWS cloud solutions with a focus on security, scalability, reliability, and cost optimization.
+
+I like turning business requirements into clean cloud architectures that are practical to operate and ready to grow.
+
+</div>
+
+<br>
+
 <p align="center">
   <img src="./assets/aws-cloud-architecture.svg" width="900" alt="Animated AWS cloud architecture" />
 </p>
@@ -23,18 +35,6 @@
   <img src="https://img.shields.io/badge/Scalable%20Architecture-166534?style=for-the-badge&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Cost%20Aware-22C55E?style=for-the-badge&logo=serverless&logoColor=0F172A" />
 </p>
-
-<br>
-
-<div align="center">
-
-## Cloud Architecture Mindset
-
-I design AWS cloud solutions with a focus on security, scalability, reliability, and cost optimization.
-
-I like turning business requirements into clean cloud architectures that are practical to operate and ready to grow.
-
-</div>
 
 <br>
 
