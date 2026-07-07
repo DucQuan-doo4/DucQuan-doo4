@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/cloud-journey.svg" width="900" alt="Animated cloud journey" />
+  <img src="./assets/cloud-journey.svg?v=1" width="900" alt="Animated cloud journey" />
 </p>
 
 <br>
